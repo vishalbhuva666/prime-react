@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prime-react/static/css/main.fda6670e.css",
+    "main.js": "/prime-react/static/js/main.e67eef6d.js",
+    "static/js/453.1c14da27.chunk.js": "/prime-react/static/js/453.1c14da27.chunk.js",
+    "static/media/IMG_3301.png": "/prime-react/static/media/IMG_3301.f8de0f3e5f3638d667cf.png",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/prime-react/static/media/Inter-italic.var.184ec460d45b3caf5b0b.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/prime-react/static/media/Inter-roman.var.71b058b66381db72226b.woff2",
+    "static/media/primeicons.svg": "/prime-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/vishal.JPG": "/prime-react/static/media/vishal.4c508b2033e5a5a9116e.JPG",
+    "static/media/primeicons.eot": "/prime-react/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/prime-react/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/prime-react/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/prime-react/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/gitHub.png": "/prime-react/static/media/gitHub.ae0d8f33ad2d0dbde89d.png",
+    "index.html": "/prime-react/index.html",
+    "main.fda6670e.css.map": "/prime-react/static/css/main.fda6670e.css.map",
+    "main.e67eef6d.js.map": "/prime-react/static/js/main.e67eef6d.js.map",
+    "453.1c14da27.chunk.js.map": "/prime-react/static/js/453.1c14da27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda6670e.css",
+    "static/js/main.e67eef6d.js"
+  ]
+}
