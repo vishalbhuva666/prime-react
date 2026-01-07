@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import "primereact/resources/themes/lara-light-cyan/theme.css";
+
 import "/node_modules/primeflex/primeflex.css";
 import 'primeicons/primeicons.css';
 

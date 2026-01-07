@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <div className='mx-5 py-3'>
+    <div>
       <Navbar />
       <Home />
       <Footer />

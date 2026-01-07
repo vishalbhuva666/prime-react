@@ -2,10 +2,10 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <div className="bg-bluegray-900 text-gray-100 p-3 flex justify-content-between lg:justify-content-center align-items-center flex-wrap">
-            <div className="font-bold mr-8">🔥 Prime React</div>
+        <div className="surface-overlay p-4 flex justify-content-between align-items-center border-top-1 surface-border">
+            <div className="font-bold mr-8 text-color">🔥 Prime React</div>
             <div className="align-items-center hidden lg:flex">
-                <span className="line-height-3">https://ahirvishal.netlify.app/</span>
+                <span className="line-height-3 text-color-secondary">https://ahirvishal.netlify.app/</span>
             </div>
         </div>
     )
